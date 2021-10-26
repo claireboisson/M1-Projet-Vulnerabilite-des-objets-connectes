@@ -2,9 +2,9 @@ Tout d’abord, avant de lancer le programme, il faut installer Metasploit. A l�
 commande à copier coller sur un terminal qui se trouve sur : https://github.com/rapid7/metasploit-framework/wiki/Nightly-Installers.
 
 Puis il faut lancer le Metasploit à l’aide de la commande : msfconsole sur un terminal.
-  taper : yes
-  taper : root
-  taper : fgh
+1. taper : yes
+2. taper : root
+3. taper : fgh
 
 Lorsque vous avez cet affichage vous pouvez fermer le terminal, Metasploit est installé.
 Ensuite, il faut s’assurer d’avoir installé différents packages comme :
